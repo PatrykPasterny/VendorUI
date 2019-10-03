@@ -1,0 +1,9 @@
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\bin\Release\VendorDomain.Classes.dll
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\bin\Release\VendorDomain.Classes.pdb
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Release\VendorDomain.Classes.dll
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Release\VendorDomain.Classes.pdb
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\bin\Release\VendorDomain.Classes.dll
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\bin\Release\VendorDomain.Classes.pdb
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\obj\Release\VendorDomain.Classes.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\obj\Release\VendorDomain.Classes.dll
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\obj\Release\VendorDomain.Classes.pdb

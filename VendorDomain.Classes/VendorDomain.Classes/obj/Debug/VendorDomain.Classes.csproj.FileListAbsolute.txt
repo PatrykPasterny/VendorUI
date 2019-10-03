@@ -1,0 +1,15 @@
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\bin\Debug\VendorDomain.Classes.dll
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\bin\Debug\VendorDomain.Classes.pdb
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.dll
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.pdb
+C:\Users\Patryk\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.csprojAssemblyReference.cache
+C:\Users\pasterny.p\source\repos\VendorDomain.Classes\VendorDomain.Classes\bin\Debug\VendorDomain.Classes.dll
+C:\Users\pasterny.p\source\repos\VendorDomain.Classes\VendorDomain.Classes\bin\Debug\VendorDomain.Classes.pdb
+C:\Users\pasterny.p\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.csprojAssemblyReference.cache
+C:\Users\pasterny.p\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.dll
+C:\Users\pasterny.p\source\repos\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.pdb
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\bin\Debug\VendorDomain.Classes.dll
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\bin\Debug\VendorDomain.Classes.pdb
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.dll
+C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.Classes\obj\Debug\VendorDomain.Classes.pdb
