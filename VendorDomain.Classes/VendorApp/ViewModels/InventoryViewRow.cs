@@ -17,7 +17,7 @@ namespace VendorAppWPF.ViewModels
             Quantity = 1;
             TypeExt = p.Type;
             Description = p.Description;
-            DisassemblyProducts = p.DisassemblyProducts;
+            DisassemblyProducts = p.DisassemblyProducts is null ? new List<Product>() : new List<Product>(p.DisassemblyProducts);
             
         }
         public InventoryViewRow(InventoryViewRow ivr)
@@ -28,7 +28,7 @@ namespace VendorAppWPF.ViewModels
             Quantity = ivr.Quantity;
             TypeExt = ivr.TypeExt;
             ProductId = ivr.ProductId;
-            DisassemblyProducts = ivr.DisassemblyProducts;
+            DisassemblyProducts = ivr.DisassemblyProducts is null ? new List<Product>() : new List<Product>(ivr.DisassemblyProducts);
         }
         public int ProductId { get; set; }
         public string Name { get; set; }

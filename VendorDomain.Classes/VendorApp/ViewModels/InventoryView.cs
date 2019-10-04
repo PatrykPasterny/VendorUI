@@ -32,7 +32,6 @@ namespace VendorAppWPF.ViewModels
                                        DisassemblyProducts = x.Product.DisassemblyProducts                        
                                    }).ToList();
 
-            var a = DbTransactionHolder.Context.Products.Include(x => x.DisassemblyProducts).ToList();
             InventoryMoney = DbTransactionHolder.Context.Inventories.Where(x => x.Id == (int)owner).Select(x => x.Money).FirstOrDefault();
             Owner = owner;
         }

@@ -63,7 +63,7 @@ namespace VendorDomain.DataModel
                 Description = "One-handed sword blessed with dragon's blood.",
                 Type = EquipmentType.Weapons,
                 Price = 400,
-                DisassemblyProducts = new List<Product>() { product14, product15 }
+                DisassemblyProducts = new List<Product>() { product15 }
             };
             var product4 = new Product
             {

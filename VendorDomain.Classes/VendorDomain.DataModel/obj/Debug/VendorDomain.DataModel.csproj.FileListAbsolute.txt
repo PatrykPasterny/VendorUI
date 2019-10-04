@@ -40,3 +40,17 @@ C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\Ve
 C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.pdb
 C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.Migrations.Initiation.resources
 C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.csproj.GenerateResource.cache
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\VendorDomain.DataModel.dll
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\VendorDomain.DataModel.pdb
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\VendorDomain.Classes.dll
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\VendorDomain.Classes.pdb
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.csprojAssemblyReference.cache
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.Migrations.Initiation.resources
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.csproj.GenerateResource.cache
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.csproj.CopyComplete
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.dll
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorDomain.DataModel\obj\Debug\VendorDomain.DataModel.pdb

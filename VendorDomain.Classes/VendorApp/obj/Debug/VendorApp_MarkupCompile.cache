@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorApp\obj\Debug\
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorApp\obj\Debug\
 VendorApp
 none
 false
 DEBUG;TRACE
-C:\Users\Patryk\Desktop\VendorDomain.Classes\VendorApp\App.xaml
+C:\Users\Patryk\source\repos\VendorUI\VendorDomain.Classes\VendorApp\App.xaml
 31187021235
 
 12822035644
-123-410562690
+1231222240252
 Views\QuantityPopup.xaml;Views\VendorView.xaml;Views\DisassemblingPopup.xaml;
 
 False

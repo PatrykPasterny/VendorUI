@@ -177,6 +177,7 @@ namespace VendorAppWPF.Views
             }
             DisassemblyButton.Visibility = Visibility.Collapsed;
             ConsumeButton.Visibility = Visibility.Collapsed;
+            UserInventory.SelectedIndex = -1;
             SellButton.IsEnabled = false;
             ItemDescription.Text = string.Empty;
             ChangeMoneyAmount();
@@ -214,6 +215,7 @@ namespace VendorAppWPF.Views
             }
             DisassemblyButton.Visibility = Visibility.Collapsed;
             ConsumeButton.Visibility = Visibility.Collapsed;
+            UserInventory.SelectedIndex = -1;
             SellButton.IsEnabled = false;
             ItemDescription.Text = string.Empty;
             FillGrids();
