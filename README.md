@@ -1,6 +1,6 @@
 # VendorUI
 
-*** ADDED INSTALTION FILE, IT SHOULD LET OPEN THE APP ON ANY OTHER PC DEVICE***
+*** ADDED .MSI INSTALTION FILE, IT SHOULD LET OPEN THE APP ON ANY OTHER PC DEVICE***
 
 VendorUI is a RPG type shop created using C#, EF6 and WPF.
 In the ReleaseVendorUI.zip you can find App.exe file with all other files needed to run App.exe on other device. In the VendorDomain.Classes you can find all the project written in VisualStudio2019 and .sln file to set up project on other devices.
