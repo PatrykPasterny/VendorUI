@@ -1,7 +1,10 @@
 # VendorUI
-*** THE MICROSOFT SQL SERVER 2017 SHOULD BE INSTALLED ON THE USER DEVICE, THE INSTALLATION FILE IS ALSO ADDED TO SOLUTION***
 
-*** ADDED .MSI INSTALTION FILE, IT SHOULD LET OPEN THE APP ON ANY OTHER PC DEVICE***
+*** The Azure based DB version of app named VendorUIAzureBaseRelease.zip works fine, was tested on computer without MS SQL Server 2017, the only need is at least 4.7.2 .Net Framework version installed on your device***
+
+
+
+The Microsoft SQL Server 2017 should be installed on the user device when running the default version of app using localDB. For this version of app I added .msi instalation file, it shoild let open app on any other pc device.
 
 VendorUI is a RPG type shop created using C#, EF6 and WPF.
 In the ReleaseVendorUI.zip you can find App.exe file with all other files needed to run App.exe on other device. In the VendorDomain.Classes you can find all the project written in VisualStudio2019 and .sln file to set up project on other devices.
